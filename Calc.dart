@@ -35,8 +35,7 @@ void modulo(double k, double l) {
 }
 
 void main(List<String> args) {
-  String reponse = 'o';
-  do {
+  
     print("SOMME -----------------> Tapez a");
     print("SOUSTRACTION ----------> Tapez b");
     print("MULTIPLICATION --------> Tapez c");
